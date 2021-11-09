@@ -16,6 +16,8 @@ public class Servlet2 extends HttpServlet {
             out.println("Servlet called");
             out.println("Data Inserted Successfully");
             String username = request.getParameter("username");
+        out.println("Seeeeeeeeeeee");
+        out.println("i did itttttttttttttt");
 
     }
 
